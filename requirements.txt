@@ -1,5 +1,7 @@
 pygame
+numpy==1.21
 torch
 torchvision
 matplotlib
 ipython
+; python_version == "3.7"
